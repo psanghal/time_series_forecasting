@@ -1,5 +1,10 @@
 # time_series_forecasting
 
+## Single Time Series Forecasting and Stationary Tests:
+
+Explore single time series data and build a forecast using ARIMA model.
+
+
 ## Time Series Similarities:
 
 Measure similarity between time series using various techniques. 

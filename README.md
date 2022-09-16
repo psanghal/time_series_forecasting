@@ -1,5 +1,7 @@
 # time_series_forecasting
 
+In this series, we will build forecast using single and multiple time series data while looking for similarities and possible causality. 
+
 ## 1. Single Time Series Forecasting and Stationary Tests:
 
 Explore single time series data and build a forecast using ARIMA model.

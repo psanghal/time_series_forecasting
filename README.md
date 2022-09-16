@@ -1,11 +1,11 @@
 # time_series_forecasting
 
-##1. Single Time Series Forecasting and Stationary Tests:
+## 1. Single Time Series Forecasting and Stationary Tests:
 
 Explore single time series data and build a forecast using ARIMA model.
 
 
-##2. Time Series Similarities:
+## 2. Time Series Similarities:
 
 Measure similarity between time series using various techniques. 
 
@@ -16,7 +16,7 @@ Measure similarity between time series using various techniques.
 Is there a shift in similarity seasonal pattern?
 
 
-##3. Multiple Time Series Forecasting and Granger Causality Testing:
+## 3. Multiple Time Series Forecasting and Granger Causality Testing:
 
 Compare VAR and ARIMA models to forecast daily new COVID-19 cases for top 5 countries and then test for possible causality to see if including time series data from other countries significantly improves time series prediction using pairwise F-test sco. 
 

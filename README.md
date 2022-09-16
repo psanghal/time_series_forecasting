@@ -10,6 +10,7 @@ Measure similarity between time series using various techniques.
 
 Is there a shift in similarity seasonal pattern?
 
+
 ## Multiple Time Series Forecasting and Granger Causality Testing:
 
 Compare VAR and ARIMA models to forecast daily new COVID-19 cases for top 5 countries and then test for possible causality to see if including time series data from other countries significantly improves time series prediction using pairwise F-test sco. 
